@@ -1,4 +1,5 @@
-import java.util.*;
+package Arrays.Lvl1;
+import java.util.Scanner;
 public class checkingnumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
