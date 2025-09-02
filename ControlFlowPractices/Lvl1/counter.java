@@ -1,6 +1,7 @@
 package ControlFlowPractices.Lvl1;
 
 import java.util.Scanner;
+
 public class counter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
